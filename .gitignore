@@ -1,0 +1,10 @@
+# Personal budget data
+budget_data.db
+budget_data.csv
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
